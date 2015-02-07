@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\bin\Debug\PolygonCalc.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\bin\Debug\PolygonCalc.exe
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\bin\Debug\PolygonCalc.pdb
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\obj\Debug\PolygonCalc.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\obj\Debug\PolygonCalc.exe
+c:\users\dell\documents\visual studio 2015\Projects\PolygonCalc\PolygonCalc\obj\Debug\PolygonCalc.pdb
